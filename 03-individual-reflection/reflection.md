@@ -15,8 +15,8 @@
 
 Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "tham gia thảo luận".
 
-| Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
-
+| Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng |
+|---|---|---|
 | Scan cá nhân | Tôi lập 5 problem từ trải nghiệm học tập và làm project, trong đó có việc đọc email/tin nhắn, lập lịch và theo dõi task nhóm. | Nhóm có thêm các candidate có actor, workflow và thời gian ban đầu; top 3 của tôi đều có thể vẽ thành workflow. |
 | Pitch Problem Card | Tôi pitch Card #1 về việc lọc email/tin nhắn, nêu bottleneck đọc và lọc thủ công 15–30 phút/ngày cùng rủi ro bỏ sót thông tin. | Nhóm thấy đây là pain phổ biến, đồng thời ghi nhận cần kiểm chứng số lượng tin và độ chính xác trước khi chọn giải pháp. |
 | Challenge bài của bạn khác | Tôi tập trung vào các điểm chưa chắc của candidate tìm việc: tần suất tìm việc, tỷ lệ tin trùng, chất lượng đánh giá phù hợp và giới hạn thu thập dữ liệu. | Nhóm ghi nhận mốc 60–90 phút chỉ là số liệu ban đầu, cần nhật ký thử nghiệm và dữ liệu gắn nhãn trước khi kết luận. |
